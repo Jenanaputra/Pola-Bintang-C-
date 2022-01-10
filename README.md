@@ -16,9 +16,9 @@
 5.  Pola segitiga siku atas.
 ![5_git](https://user-images.githubusercontent.com/69109599/148745287-efdec9c6-5684-4b4f-9ee8-af66a6a0c70b.JPG)
 
-6.  Pola segitiga siku arah atas.
+6.  Pola segitiga sama sisi arah atas.
 ![6_git](https://user-images.githubusercontent.com/69109599/148745289-631836c2-5318-42e4-8b8d-bf758cad0bbb.JPG)
 
-7.  Pola segitiga siku arah bawah.
+7.  Pola segitiga sama sisi arah bawah.
 ![7_git](https://user-images.githubusercontent.com/69109599/148745291-bfe41c92-1da6-4e96-98ab-f1a11929dadc.JPG)
 
